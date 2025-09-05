@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang Sở Thích Cá Nhân</title>
+</head>
+<body>
+    <h1>Những món ăn yêu thích của tôi</h1>
+    <ul>
+        <li>Phở bò</li>
+        <li>Bún chả</li>
+        <li>Cơm tấm</li>
+        <li>Bánh mì</li>
+        <li>Gỏi cuốn</li>
+    </ul>
+
+    <h2>Các bước chuẩn bị cho một chuyến du lịch</h2>
+    <ol>
+        <li>Lên kế hoạch điểm đến và thời gian đi</li>
+        <li>Đặt vé máy bay hoặc phương tiện di chuyển</li>
+        <li>Đặt khách sạn hoặc nơi lưu trú</li>
+        <li>Chuẩn bị hành lý cần thiết</li>
+        <li>Kiểm tra giấy tờ tùy thân và vé trước ngày đi</li>
+    </ol>
+</body>
+</html>
